@@ -22,15 +22,7 @@ Abaixo estão as principais partes do sistema e sua funcionalidade:
 3. **Persistência de Dados**:
    - Utiliza um banco de dados simples para armazenar o histórico de chats e manter o contexto entre as conversas.
 
-### Como Executar o Projeto
-
-Siga as instruções abaixo para executar o projeto em seu ambiente local:
-
-### 1. Clonar o Repositório
-```bash
-git clone https://github.com/Guilhermecl/IA-Generativa-com-LangChain-e-Gemini.git
-cd IA-Generativa-com-LangChain-e-Gemini
-## 2. Instalar Dependências
+### 2. Instalar Dependências
 
 Instale as dependências do projeto utilizando o `pip`:
 
@@ -72,3 +64,12 @@ linkedIn:<img width="836" height="829" alt="image" src="https://github.com/user-
 4. **Tecnologias Utilizadas e Licença**: A seção de tecnologias resume as principais bibliotecas e ferramentas utilizadas, além de fornecer informações sobre licenciamento e contribuições.
 
 Este `README.md` fornece todas as informações necessárias para que outros desenvolvedores possam entender, configurar e contribuir para o seu projeto.
+
+### Como Executar o Projeto
+
+Siga as instruções abaixo para executar o projeto em seu ambiente local:
+
+### 1. Clonar o Repositório
+```bash
+git clone https://github.com/Guilhermecl/IA-Generativa-com-LangChain-e-Gemini.git
+cd IA-Generativa-com-LangChain-e-Gemini****
