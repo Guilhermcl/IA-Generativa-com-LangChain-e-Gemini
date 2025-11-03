@@ -22,19 +22,19 @@ Abaixo estão as principais partes do sistema e sua funcionalidade:
 3. **Persistência de Dados**:
    - Utiliza um banco de dados simples para armazenar o histórico de chats e manter o contexto entre as conversas.
 
-### 2. Instalar Dependências
+## 2. Instalar Dependências
 
 Instale as dependências do projeto utilizando o `pip`:
 
 ```bash
 pip install -r requirements.txt
 
-### config.py
+## config.py
 GOOGLE_GEMINI_API_KEY = "SUA_CHAVE_GEMINI"
 OPENAI_API_KEY = "SUA_CHAVE_OPENAI"
 CLAUDE_API_KEY = "SUA_CHAVE_CLAUDE"
 
-### Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 LangChain: Framework para integração de LLMs e ferramentas.
 
@@ -46,14 +46,14 @@ Claude: Modelo de linguagem da Anthropic.
 
 APIs externas: Integração com diversas APIs para funcionalidades adicionais.
 
-### Contato
+## Contato
 Se você tiver alguma dúvida ou sugestão, não hesite em me contactar através do LinkedIn ou GitHub.
 linkedIn:<img width="836" height="829" alt="image" src="https://github.com/user-attachments/assets/8a6116c3-e85a-4e30-9260-201437f901e8" />
 
 
 ---
 
-### Explicações sobre o `README.md`:
+## Explicações sobre o `README.md`:
 
 1. **Introdução e Funcionalidades**: A descrição inicial oferece uma visão clara das principais funcionalidades do projeto, destacando a integração de múltiplos LLMs e a capacidade de usar ferramentas e manter o contexto.
 
