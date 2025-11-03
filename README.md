@@ -22,11 +22,11 @@ Abaixo estão as principais partes do sistema e sua funcionalidade:
 3. **Persistência de Dados**:
    - Utiliza um banco de dados simples para armazenar o histórico de chats e manter o contexto entre as conversas.
 
-## 2. Instalar Dependências
+## Instalar Dependências
 
 Instale as dependências do projeto utilizando o `pip`:
 
-```bash
+bash
 pip install -r requirements.txt
 
 ## config.py
