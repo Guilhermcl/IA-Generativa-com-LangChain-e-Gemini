@@ -1,0 +1,8 @@
+Problemas Comuns em Controle de videogame:
+Drift (movimento do analógico): Ocorre devido ao desgaste dos potenciômetros internos, que detectam o movimento.
+
+Problemas de pareamento ou conexão: O controle pode não se conectar corretamente ao console ou PC.
+
+Bateria fraca ou não carregando: As baterias podem estar gastas ou os contatos podem estar sujos ou danificados.
+
+Botões travando ou não respondendo: Sujeira, cola ou desgaste podem causar mau funcionamento dos botões.
